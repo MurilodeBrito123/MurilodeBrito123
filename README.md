@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Murilo de Brito
 
-<!--
-**MurilodeBrito123/MurilodeBrito123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UFFS  
+💻 Interessado em desenvolvimento de software e backend
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Graduando em Ciência da Computação
+- ☕ Estudando Java e desenvolvimento backend
+- 💻 Desenvolvendo projetos em C, C++ e Java
+- 🌱 Aprendendo novas tecnologias na prática
+- 🎯 Buscando oportunidades para crescer como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📚 Atualmente estudando
+
+- Java e Programação Orientada a Objetos
+- Estruturas de Dados e Algoritmos
+- Arquitetura de Computadores
+- Desenvolvimento Backend
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurilodeBrito123&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilodeBrito123&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilodeBrito123)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
