@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Graduando em Ciência da Computação
+- 🎓 Graduando em Ciência da Computação (4 período)
 - ☕ Estudando Java e desenvolvimento backend
 - 💻 Desenvolvendo projetos em C, C++ e Java
 - 🌱 Aprendendo novas tecnologias na prática
