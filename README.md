@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurilodeBrito123&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilodeBrito123&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilodeBrito123)
